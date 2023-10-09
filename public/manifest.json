@@ -3,12 +3,12 @@
   "name": "My Ionic App",
   "icons": [
     {
-      "src": "assets/icon/favicon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "./src/assets/pills-picture.png",
+      "sizes": "256x256",
+      "type": "image/png"
     },
     {
-      "src": "assets/icon/icon.png",
+      "src": "./src/assets/penguin.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
